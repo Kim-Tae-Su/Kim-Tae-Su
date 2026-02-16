@@ -68,10 +68,15 @@
 - 자동화 시스템 운영 시퀀스 개발 및 유지보수
 
 **주요 프로젝트**
-- DDS 기반 실시간 데이터 수집·처리 파이프라인 구축
-- 생산 데이터 기반 Cycle Time 이상 감지 모델 개발 및 적용
-- Selenium 기반 CRM 웹 자동화 스크립트 구축을 통해 내부 데이터 수집 및 처리 자동화
-- 딥러닝 기반 Super Resolution 모델 설계 및 실무 적용을 통해 이미지 처리 파이프라인 성능 개선
+- **DDS 기반 실시간 데이터 수집·처리 파이프라인 구축**
+  - 실시간 생산 데이터 수집 및 분산 처리 구조 설계·구현
+  - 👉 [프로젝트 상세](https://github.com/Kim-Tae-Su/Web-Crawling)
+- **Selenium 기반 CRM 웹 자동화 시스템 구축**
+  - 웹 UI 자동화를 통해 내부 CRM 데이터 수집·처리 파이프라인 구현  
+  - 👉 [프로젝트 상세](https://github.com/Kim-Tae-Su/Web-Crawling)
+- **딥러닝 기반 Super Resolution 모델 설계 및 실무 적용**
+  - 저해상도 이미지 복원 모델 설계로 이미지 처리 파이프라인 성능 개선  
+  - 👉 [프로젝트 상세](https://github.com/Kim-Tae-Su/super-resolution-project)
 
 ---
 
