@@ -70,7 +70,7 @@
 **주요 프로젝트**
 - **DDS 기반 실시간 데이터 수집·처리 파이프라인 구축**
   - 실시간 생산 데이터 수집 및 분산 처리 구조 설계·구현
-  - 👉 [프로젝트 상세](https://github.com/Kim-Tae-Su/Web-Crawling)
+  - 👉 [프로젝트 상세](https://github.com/Kim-Tae-Su/KohYoung-DDS)
 - **Selenium 기반 CRM 웹 자동화 시스템 구축**
   - 웹 UI 자동화를 통해 내부 CRM 데이터 수집·처리 파이프라인 구현  
   - 👉 [프로젝트 상세](https://github.com/Kim-Tae-Su/Web-Crawling)
