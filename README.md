@@ -80,7 +80,7 @@
   - 👉 [프로젝트 상세](https://github.com/Kim-Tae-Su/super-resolution-project)
 
 
-### 앱테스트에이아이 (2025.09 ~ 재직 중)
+### 앱테스트에이아이 (2025.09 ~ 2026.05)
 **개발 1팀 / Backend Engineer**
 - Flask 기반 API 서버 설계 및 운영, 서비스 로직 및 트랜잭션 경계 정의
 - SQLAlchemy ORM 기반 데이터 모델링 및 데이터 무결성을 고려한 접근 계층 설계
@@ -94,6 +94,9 @@
   - TLS 인증서 자동 생성 및 보안 설정 표준화
   - 컨테이너 기동 시 초기화 자동화 구조 설계
   - 👉 [프로젝트 상세](https://github.com/Kim-Tae-Su/ApptestAI-ELK)
+ 
+### 롯데이노베이트 (2026.05 ~ 재직중)
+**면세IS / Backend Engineer**
 
 ---
 
