@@ -3,29 +3,29 @@
 </p>
 
 <p align="center">
-  <b>운영 안정성 · 데이터 정합성 · 성능 개선에 집중하는 개발자</b>
+  <b>문제를 구조적으로 해결하고 지속 가능한 시스템을 만드는 개발자</b>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Backend-Flask%20%7C%20FastAPI-blue" />
+  <img src="https://img.shields.io/badge/Backend-Flask%20%7C%20FastAPI%20%7C%20Spring-blue" />
+  <img src="https://img.shields.io/badge/Language-Python%20%7C%20C%2B%2B%20%7C%20C%23%20%7C%20Java-555555" />
   <img src="https://img.shields.io/badge/Database-MySQL-orange" />
   <img src="https://img.shields.io/badge/Infra%20%2F%20Ops-Docker%20%7C%20ELK-green" />
   <img src="https://img.shields.io/badge/Data%20%2F%20AI-TensorFlow%20%7C%20scikit--learn%20%7C%20LangChain-6B46C1" />
-
 </p>
 
 ---
 
 ## About Me
 
-테스트 자동화 플랫폼을 개발하고 있는 백엔드 개발자입니다.
+꾸준히 배우고 개선하는 것을 중요하게 생각하는 개발자입니다.
 
-비동기 테스트 실행, 결과 수집, 대용량 로그 처리 등
-자동화 서비스의 핵심 백엔드를 담당하며
-운영 안정성, 데이터 정합성, 성능 개선을 중심으로 시스템을 설계해 왔습니다.
+다양한 서비스 개발과 운영 경험을 통해
+문제를 빠르게 파악하고 안정적으로 해결하는 역량을 쌓아왔으며,
+협업과 유지보수를 고려한 개발을 지향하고 있습니다.
 
-장애를 단순 대응이 아닌 구조적 원인 분석으로 해결하고,
-재발을 방지하는 시스템을 설계하는 것을 지향합니다.
+새로운 기술과 환경에 대한 적응이 빠르며,
+사용자와 운영 관점 모두를 고려한 시스템을 만드는 것을 목표로 합니다.
 
 
 
@@ -33,28 +33,34 @@
 
 ## Tech Stack
 
+### Language
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+
 ### Backend
-![Flask](https://img.shields.io/badge/Flask-black?logo=flask)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white)
 
 ### Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white)
 
-### Infra / Ops
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker)
+### Infra / DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![ELK](https://img.shields.io/badge/ELK-005571?logo=elastic)
+![ELK](https://img.shields.io/badge/ELK-005571?logo=elastic&logoColor=white)
 
-### Data / AI
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow)
+### AI / Data
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-6B46C1?logo=chainlink&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121D33?logo=chainlink&logoColor=white)
 
-### System / Native (Windows)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus)
-![Visual%20Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio)
-![MFC](https://img.shields.io/badge/MFC-0078D4)
-
+### Windows / Native
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?logo=visualstudio&logoColor=white)
+![MFC](https://img.shields.io/badge/MFC-0078D4?logo=windows&logoColor=white)
 ---
 
 
@@ -62,11 +68,11 @@
 
 ### 고영테크놀러지 (2023.01 ~ 2025.04)
 **제어 / SW 엔지니어**
-- C/C++ 기반 Windows 제어 애플리케이션 설계 및 개발
-- TCP/IP 소켓 통신 및 맞춤형 통신 프로토콜 구현을 통한 데이터 송수신 처리 구현
-- 멀티스레드 기반 데이터 처리 로직 설계 및 성능 최적화
-- 자동화 시스템 운영 시퀀스 설계 및 현장 테스트·이슈 대응
-- Python 기반 데이터 수집·처리 자동화 및 AI 모델 학습·추론 파이프라인 구축
+- C/C++ 기반 Windows 제어 애플리케이션 설계·개발 (UI 및 데이터 처리 로직 구현, 유지보수 고려한 구조 설계)
+- TCP/IP 소켓 통신 및 맞춤형 통신 프로토콜 구현 (장비·서버 간 안정적 데이터 송수신 처리)
+- 멀티스레드 기반 데이터 처리 로직 설계 및 성능 최적화 (동시성 처리 및 리소스 효율 개선)
+- 자동화 시스템 운영 시퀀스 설계 및 현장 테스트·이슈 대응 (운영 안정화 및 장애 원인 분석 수행)
+- Python 기반 데이터 수집·처리 자동화 및 AI 모델 학습·추론 파이프라인 구축 (업무 자동화 및 데이터 처리 효율 개선)
 
 **주요 프로젝트**
 - **DDS 기반 실시간 데이터 수집·처리 파이프라인 구축**
@@ -81,12 +87,12 @@
 
 
 ### 앱테스트에이아이 (2025.09 ~ 2026.05)
-**개발 1팀 / Backend Engineer**
-- Flask 기반 API 서버 설계 및 운영, 서비스 로직 및 트랜잭션 경계 정의
-- SQLAlchemy ORM 기반 데이터 모델링 및 데이터 무결성을 고려한 접근 계층 설계
-- 서비스 사용량 통계 API 설계·구현을 통해 운영 지표 자동 집계 및 데이터 정합성 확보
-- 재귀 CTE 및 윈도우 함수 기반 쿼리 리팩토링으로 대용량 통계 조회 성능 개선
-- Docker 기반 ELK Stack 표준 이미지 설계 및 로그 수집·분석 파이프라인 보안·운영 자동화
+**개발 / Backend Engineer**
+- RESTful API 서버 설계·개발 및 운영 (인증/인가, 예외 처리, 응답 구조 표준화 및 유지보수 고려한 API 설계)
+- 대용량 데이터 처리 및 SQL 성능 최적화 (쿼리 튜닝, 인덱스 설계, 실행 계획 분석 기반 성능 개선)
+- Docker 기반 컨테이너 환경 구성 및 서비스 운영 (컨테이너 배포, 환경 분리 및 운영 자동화 경험)
+- Flask/FastAPI 기반 백엔드 아키텍처 설계 및 리팩토링 (모듈화 구조 설계, 비즈니스 로직 분리 및 코드 품질 개선)
+- 장애 대응·로그 분석·모니터링 기반 서비스 안정화 (에러 원인 분석, 로그 추적 및 운영 이슈 대응 경험)
 
 **주요 프로젝트**
 - **ELK Stack 도커 이미지 빌드 및 보안·운영 자동화**
@@ -96,8 +102,12 @@
   - 👉 [프로젝트 상세](https://github.com/Kim-Tae-Su/ApptestAI-ELK)
  
 ### 롯데이노베이트 (2026.05 ~ 재직중)
-**면세IS / Backend Engineer**
-
+**면세IS / 영업(POS)**
+- 오프라인 결제 시스템(POS) 설계·개발 및 운영 (결제 프로세스 개선 및 안정적 서비스 운영 지원)
+- POS 시스템 장애 대응 및 운영 이슈 분석 (로그 분석 및 원인 파악 기반 문제 해결)
+- 매장·서버 간 데이터 연동 및 인터페이스 운영 (실시간 데이터 처리 및 시스템 연계 지원)
+- 운영 환경 모니터링 및 서비스 안정화 수행 (장애 예방 및 운영 효율 개선)
+- C# 기반 POS 기능 개발 및 유지보수 (기능 개선 및 코드 안정성 향상)
 ---
 
 
