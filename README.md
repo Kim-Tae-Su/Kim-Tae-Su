@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <b>구조적인 설계와 안정적인 운영을 지향하는 개발자</b>
+  <b>안정적인 서비스 운영과 지속적인 개선을 추구하는 개발자</b>
 </p>
 
 <p align="center">
@@ -17,15 +17,17 @@
 ---
 
 ## About Me
-백엔드 서버 개발과 서비스 운영 경험을 바탕으로  
-안정적이고 유지보수 가능한 서비스를 만드는 개발자입니다.
+백엔드 개발과 서비스 운영 경험을 바탕으로       
+안정적이고 유지보수 가능한 시스템을 구축하는 개발자입니다.
 
-서비스 개발부터 운영, 장애 대응 및 안정화까지 전반적인 과정을 경험하며,  
-문제를 빠르게 파악하고 로그 분석과 구조적인 접근을 통해 해결하는 역량을 쌓아왔습니다.  
-또한 협업과 유지보수성을 고려한 개발을 지향하고 있습니다.
+REST API 개발, 데이터 처리, 시스템 연동, 장애 대응 및 운영 안정화까지       
+서비스 전반을 경험하였으며, 로그 분석과 원인 추적을 통한 문제 해결에 강점을 가지고 있습니다.
 
-새로운 기술과 환경에 대한 적응이 빠르며,  
-사용자와 운영 관점을 함께 고려한 시스템 구축을 목표로 합니다.
+또한 SQL 성능 최적화, Docker 기반 운영 환경 구축, 실시간 데이터 처리 경험을 바탕으로       
+서비스 품질 향상과 운영 효율 개선에 기여해왔습니다.
+
+새로운 기술과 환경에 대한 적응이 빠르며,       
+사용자와 운영 관점을 함께 고려한 시스템 설계를 지향합니다.
 
 
 
@@ -58,16 +60,19 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-121D33?logo=chainlink&logoColor=white)
 
-### Windows / Native
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?logo=visualstudio&logoColor=white)
+### Windows / Application
+![C%23](https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
+![C%2B%2B](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white)
 ![MFC](https://img.shields.io/badge/MFC-0078D4?logo=windows&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?logo=visualstudio&logoColor=white)
 ---
 
 
 ## Experience
 
 ### 고영테크놀러지 (2023.01 ~ 2025.04)
-**제어 / SW**
+**제어1팀 / SW**
 - C/C++ 기반 Windows 제어 애플리케이션 설계·개발 (UI 및 데이터 처리 로직 구현, 유지보수 고려한 구조 설계)
 - TCP/IP 소켓 통신 및 맞춤형 통신 프로토콜 구현 (장비·서버 간 안정적 데이터 송수신 처리)
 - 멀티스레드 기반 데이터 처리 로직 설계 및 성능 최적화 (동시성 처리 및 리소스 효율 개선)
@@ -87,7 +92,7 @@
 
 
 ### 앱테스트에이아이 (2025.09 ~ 2026.05)
-**개발 / Backend**
+**개발1팀 / Backend**
 - RESTful API 서버 설계·개발 및 운영 (인증/인가, 예외 처리, 응답 구조 표준화 및 유지보수 고려한 API 설계)
 - 대용량 데이터 처리 및 SQL 성능 최적화 (쿼리 튜닝, 인덱스 설계, 실행 계획 분석 기반 성능 개선)
 - Docker 기반 컨테이너 환경 구성 및 서비스 운영 (컨테이너 배포, 환경 분리 및 운영 자동화 경험)
@@ -102,56 +107,58 @@
   - 👉 [프로젝트 상세](https://github.com/Kim-Tae-Su/ApptestAI-ELK)
  
 ### 롯데이노베이트 (2026.05 ~ 재직중)
-**면세IS / POS**
-- POS 연동 WAS(Web Application Server) 설계·개발 및 운영 (실시간 결제 및 데이터 처리 기능 개발 지원)
-- 결제 프로세스 및 비즈니스 로직 개발·개선 (안정적인 서비스 운영 및 기능 고도화)
-- 매장·서버 간 데이터 연동 및 인터페이스 개발 (실시간 데이터 처리 및 시스템 연계 지원)
+**면세IS팀 / POS시스템**
+- C# 기반 POS 클라이언트 기능 개발 및 유지보수 (결제·판매 업무 기능 개선 및 안정화)
+- POS 클라이언트와 Java Spring 기반 백엔드 간 인터페이스 연동 개발 (실시간 데이터 송수신 및 서비스 연계)
+- 결제 프로세스 및 비즈니스 로직 개발·개선 (사용자 편의성 향상 및 업무 효율화)
+- 매장 POS와 서버 간 데이터 연동 기능 개발 및 운영 (실시간 거래 데이터 처리 지원)
 - POS 시스템 장애 대응 및 운영 이슈 분석 (로그 분석 기반 원인 파악 및 문제 해결)
 - 운영 환경 모니터링 및 서비스 안정화 수행 (장애 예방 및 운영 효율 개선)
-- C# 기반 서버 기능 개발 및 유지보수 (기능 개선 및 코드 안정성 향상)
 ---
 
 
 ## Core Engineering Areas
 
-### Backend / API Development
-- Flask / FastAPI 기반 REST API 설계·개발 및 운영 경험
-- 응답 구조 표준화, 공통 로직 분리, 예외 처리 일관화를 통한 유지보수성 개선
-- 대용량 데이터 처리 및 스트리밍 방식 적용을 통한 서비스 안정성 향상
-- 운영 환경 API 장애 분석 및 재발 방지를 고려한 구조 개선 경험
+### Backend / Application Development
+- Flask / FastAPI 기반 REST API 설계·개발 및 운영
+- Java Spring 기반 백엔드 API 연동 및 인터페이스 개발
+- C# 기반 POS 애플리케이션 개발 및 유지보수
+- 응답 구조 표준화, 공통 로직 분리, 예외 처리 체계 개선
+- 운영 환경 장애 분석 및 로그 기반 문제 해결
+
 
 ---
 
 ### Database
-- MySQL / Oracle 기반 데이터베이스 설계 및 운영 경험
-- 인덱스 설계 및 실행 계획 분석 기반 SQL 성능 최적화 경험
+- MySQL / Oracle 기반 데이터베이스 설계 및 운영
+- 인덱스 설계 및 실행 계획 분석 기반 SQL 성능 최적화
 - 트랜잭션 및 데이터 정합성을 고려한 데이터 처리 로직 설계
-- 정규화 기반 스키마 개선 및 관계형 데이터 구조 설계 경험
+- 정규화 기반 스키마 설계 및 관계형 데이터 모델링
+- 애플리케이션–DB 연계 데이터 처리 및 쿼리 튜닝
 
 ---
 
 ### Infra / DevOps
-- Docker 기반 서비스 환경 구성 및 배포·운영 경험
-- ELK Stack 기반 로그 수집·분석 및 운영 모니터링 환경 구축
-- Shell Script 기반 배포·운영 자동화 경험
-- 무중단 배포 및 운영 안정화를 위한 서비스 관리 경험
+- Docker 기반 서비스 환경 구성 및 배포·운영
+- ELK Stack 기반 로그 수집·분석 및 모니터링 환경 구축
+- Shell Script 기반 배포 및 운영 자동화
+- 서비스 안정성 향상을 위한 운영 및 장애 대응
 
 ---
 
 ### System / Data Processing
-- TCP/IP 소켓 통신 및 맞춤형 프로토콜 기반 데이터 처리 경험
-- 멀티스레드 기반 데이터 처리 로직 설계 및 성능 최적화 경험
-- DDS 기반 실시간 데이터 수집·처리 파이프라인 구축 경험
-- 자동화 시스템 운영 시퀀스 설계 및 현장 이슈 대응 경험
+- TCP/IP 소켓 통신 및 맞춤형 프로토콜 기반 데이터 처리
+- 멀티스레드 기반 데이터 처리 로직 설계 및 성능 최적화
+- DDS 기반 실시간 데이터 수집·처리 파이프라인 구축
+- 자동화 시스템 운영 시퀀스 설계 및 현장 이슈 대응
 
 ---
 
 ### AI / ML
-- 데이터 전처리부터 모델 학습·평가까지 ML/DL 파이프라인 경험
-- TensorFlow 기반 딥러닝 모델 설계 및 성능 개선 경험
-- Super Resolution 모델 설계 및 이미지 처리 성능 개선 경험
-- LangChain 기반 RAG 시스템 구현 경험
-
+- 데이터 전처리부터 모델 학습·평가까지 ML/DL 파이프라인 구축
+- TensorFlow 기반 딥러닝 모델 설계 및 성능 개선
+- Super Resolution 모델 개발 및 이미지 품질 향상
+- LangChain 기반 RAG 시스템 구현
 
 ---
 
