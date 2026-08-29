@@ -49,6 +49,7 @@ REST API 개발, 데이터 처리, 시스템 연동, 장애 대응 및 운영 �
 ### Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white)
+![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?logo=oracle&logoColor=white)
 
 ### Infra / DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
@@ -61,11 +62,8 @@ REST API 개발, 데이터 처리, 시스템 연동, 장애 대응 및 운영 �
 ![LangChain](https://img.shields.io/badge/LangChain-121D33?logo=chainlink&logoColor=white)
 
 ### Windows / Application
-![C%23](https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
-![C%2B%2B](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white)
+![WinForms](https://img.shields.io/badge/WinForms-512BD4?logo=windows&logoColor=white)
 ![MFC](https://img.shields.io/badge/MFC-0078D4?logo=windows&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?logo=visualstudio&logoColor=white)
 ---
 
 
