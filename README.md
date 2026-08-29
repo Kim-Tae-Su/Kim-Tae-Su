@@ -32,9 +32,6 @@ Docker 기반 운영 환경과 실시간 데이터 처리 경험을 바탕으로
 ---
 
 
-
----
-
 ## Tech Stack
 
 | Category | Skills |
