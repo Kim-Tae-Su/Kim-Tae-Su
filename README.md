@@ -3,28 +3,73 @@
 </p>
 
 <p align="center">
-  <b>안정적인 서비스 운영과 지속적인 개선을 추구하는 개발자</b>
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:2563EB,100:38BDF8&height=45&section=header&text=%EC%95%88%EC%A0%95%EC%A0%81%EC%9D%B8%20%EC%84%9C%EB%B9%84%EC%8A%A4%20%EC%9A%B4%EC%98%81%EA%B3%BC%20%EC%A7%80%EC%86%8D%EC%A0%81%EC%9D%B8%20%EA%B0%9C%EC%84%A0%EC%9D%84%20%EC%B6%94%EA%B5%AC%ED%95%98%EB%8A%94%20%EA%B0%9C%EB%B0%9C%EC%9E%90&fontSize=16&fontColor=ffffff&fontAlignY=50" />
 </p>
 
+<br>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=60&section=header&text=About%20Me&fontSize=28&fontAlignY=50" />
+</p>
 
-## About Me
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:1E40AF,100:3B82F6&height=50&section=header&text=Backend%20%26%20System&fontSize=22&fontColor=ffffff&fontAlignY=50" />
+</p>
 
-백엔드 개발과 시스템 운영 경험을 바탕으로         
-안정적이고 확장 가능한 서비스를 구축하는 개발자입니다.
+<p align="center">
+  백엔드 개발과 시스템 운영 경험을 바탕으로<br>
+  안정적이고 확장 가능한 서비스를 구축하는 개발자입니다.
+</p>
 
-REST API 개발, 데이터 처리, 시스템 연동부터  
-장애 대응과 운영 안정화까지 서비스 전반을 경험했습니다.
+<br>
 
-특히 로그와 데이터를 기반으로 문제의 원인을 추적하고,  
-SQL 최적화와 시스템 개선을 통해 서비스의 안정성과 성능을 향상시키는 데 강점이 있습니다.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:2563EB,100:60A5FA&height=50&section=header&text=REST%20API%20%7C%20Data%20Processing%20%7C%20System%20Integration&fontSize=18&fontColor=ffffff&fontAlignY=50" />
+</p>
 
-Docker 기반 운영 환경과 실시간 데이터 처리 경험을 바탕으로  
-개발뿐만 아니라 배포, 운영, 모니터링까지 고려한 시스템을 지향합니다.
+<p align="center">
+  REST API 개발, 데이터 처리, 시스템 연동부터<br>
+  장애 대응과 운영 안정화까지 서비스 전반을 경험했습니다.
+</p>
 
-새로운 기술과 환경을 빠르게 학습하고 적용하며,  
-사용자와 운영자의 관점에서 지속적으로 개선하는 개발자를 지향합니다.
+<br>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:1D4ED8,100:38BDF8&height=50&section=header&text=Problem%20Solving%20%26%20Optimization&fontSize=18&fontColor=ffffff&fontAlignY=50" />
+</p>
+
+<p align="center">
+  특히 로그와 데이터를 기반으로 문제의 원인을 추적하고,<br>
+  SQL 최적화와 시스템 개선을 통해 서비스의 안정성과 성능을 향상시키는 데 강점이 있습니다.
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0369A1,100:0EA5E9&height=50&section=header&text=Docker%20%26%20Real-time%20Data&fontSize=18&fontColor=ffffff&fontAlignY=50" />
+</p>
+
+<p align="center">
+  Docker 기반 운영 환경과 실시간 데이터 처리 경험을 바탕으로<br>
+  개발뿐만 아니라 배포, 운영, 모니터링까지 고려한 시스템을 지향합니다.
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:1E3A8A,100:2563EB&height=50&section=header&text=Continuous%20Improvement&fontSize=18&fontColor=ffffff&fontAlignY=50" />
+</p>
+
+<p align="center">
+  새로운 기술과 환경을 빠르게 학습하고 적용하며,<br>
+  사용자와 운영자의 관점에서 지속적으로 개선하는 개발자를 지향합니다.
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=70&section=footer&text=Backend%20%C2%B7%20System%20%C2%B7%20Data%20%C2%B7%20DevOps&fontSize=22&fontAlignY=50" />
+</p>.
 
 
 
