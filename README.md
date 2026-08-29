@@ -1,4 +1,35 @@
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=120&section=header&text=Backend%20%2F%20System%20Developer&fontSize=36&fontAlignY=50" /> </p> <p align="center"> <b>안정적인 서비스 운영과 지속적인 개선을 추구하는 개발자</b> </p> --- ## About Me 백엔드 개발과 시스템 운영 경험을 바탕으로 안정적이고 확장 가능한 서비스를 구축하는 개발자입니다. REST API 개발, 데이터 처리, 시스템 연동부터 장애 대응과 운영 안정화까지 서비스 전반을 경험했습니다. 특히 로그와 데이터를 기반으로 문제의 원인을 추적하고, SQL 최적화와 시스템 개선을 통해 서비스의 안정성과 성능을 향상시키는 데 강점이 있습니다. Docker 기반 운영 환경과 실시간 데이터 처리 경험을 바탕으로 개발뿐만 아니라 배포, 운영, 모니터링까지 고려한 시스템을 지향합니다. 새로운 기술과 환경을 빠르게 학습하고 적용하며, 사용자와 운영자의 관점에서 지속적으로 개선하는 개발자를 지향합니다.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=120&section=header&text=Backend%20%2F%20System%20Developer&fontSize=36&fontAlignY=50" />
+</p>
+
+<p align="center">
+  <b>안정적인 서비스 운영과 지속적인 개선을 추구하는 개발자</b>
+</p>
+
+<br>
+
+---
+
+## About Me
+
+백엔드 개발과 시스템 운영 경험을 바탕으로  
+안정적이고 확장 가능한 서비스를 구축하는 개발자입니다.
+
+REST API 개발, 데이터 처리, 시스템 연동부터  
+장애 대응과 운영 안정화까지 서비스 전반을 경험했습니다.
+
+특히 로그와 데이터를 기반으로 문제의 원인을 추적하고,  
+SQL 최적화와 시스템 개선을 통해 서비스의 안정성과 성능을 향상시키는 데 강점이 있습니다.
+
+Docker 기반 운영 환경과 실시간 데이터 처리 경험을 바탕으로  
+개발뿐만 아니라 배포, 운영, 모니터링까지 고려한 시스템을 지향합니다.
+
+새로운 기술과 환경을 빠르게 학습하고 적용하며,  
+사용자와 운영자의 관점에서 지속적으로 개선하는 개발자를 지향합니다.
+
+<br>
+
+---
 
 
 
