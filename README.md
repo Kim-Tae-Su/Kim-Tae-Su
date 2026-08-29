@@ -6,13 +6,6 @@
   <b>안정적인 서비스 운영과 지속적인 개선을 추구하는 개발자</b>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Backend-Flask%20%7C%20FastAPI%20%7C%20Spring-blue" />
-  <img src="https://img.shields.io/badge/Language-Python%20%7C%20C%2B%2B%20%7C%20C%23%20%7C%20Java-555555" />
-  <img src="https://img.shields.io/badge/Database-MySQL-orange" />
-  <img src="https://img.shields.io/badge/Infra%20%2F%20Ops-Docker%20%7C%20ELK-green" />
-  <img src="https://img.shields.io/badge/Data%20%2F%20AI-TensorFlow%20%7C%20scikit--learn%20%7C%20LangChain-6B46C1" />
-</p>
 
 ---
 
