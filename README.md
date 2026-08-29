@@ -51,19 +51,28 @@ REST API 개발, 데이터 처리, 시스템 연동, 장애 대응 및 운영 �
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white)
 ![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?logo=oracle&logoColor=white)
 
-### Infra / DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+### System / Infrastructure
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![ELK](https://img.shields.io/badge/ELK-005571?logo=elastic&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
-### AI / Data
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
+### CI/CD
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)
+
+### AI / GenAI
 ![LangChain](https://img.shields.io/badge/LangChain-121D33?logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?logo=langchain&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?logo=n8n&logoColor=white)
+
+### Data Science
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 
 ### Windows / Application
 ![WinForms](https://img.shields.io/badge/WinForms-512BD4?logo=windows&logoColor=white)
 ![MFC](https://img.shields.io/badge/MFC-0078D4?logo=windows&logoColor=white)
+
+### Monitoring / Logging
+![ELK](https://img.shields.io/badge/ELK-005571?logo=elastic&logoColor=white)
 ---
 
 
